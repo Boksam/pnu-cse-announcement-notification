@@ -38,7 +38,7 @@ cd pnu-cse-announcement-notifier
 
 ```
 
-2. ** Install dependencies:**
+2. **Install dependencies:**
 
 ```bash
 pnpm install
